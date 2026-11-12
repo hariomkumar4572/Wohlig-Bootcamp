@@ -1,0 +1,7 @@
+Customer Name: Priya Singh
+Claim ID: CL102
+Incident: Water leakage in residential house
+Claimed Amount: Rs. 80000
+Damage Details: Bedroom wall and furniture damaged
+Claim Status: Under Review
+Missing Information: None

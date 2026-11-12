@@ -16,7 +16,7 @@ ticket_id,ticket_text,ground_truth,zero_shot_pred,few_shot_pred,role_based_pred,
 "T015","I am unable to complete my payment using UPI.","Payment","Payment","Payment","Payment","true","true","true"
 "T016","My transaction is showing pending even though money has been deducted.","Payment","Payment","Payment","Payment","true","true","true"
 "T017","I want to update my registered mobile number in my account.","Account","Account","Account","Account","true","true","true"
-"T018","My account has been temporarily blocked. Please help me restore access.","Account","Login","Account","Account","false","true","true"
+"T018","My account has been temporarily blocked. Please help me restore access.","Account","Login","Login","Account","false","false","true"
 "T019","I want to change the email address associated with my profile.","Account","Account","Account","Account","true","true","true"
 "T020","My profile information disappeared after the latest application update.","Account","Account","Account","Account","true","true","true"
 "T021","The headphones I received have only one working earbud.","Product Quality","Product Quality","Product Quality","Product Quality","true","true","true"

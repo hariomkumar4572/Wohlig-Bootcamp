@@ -1,0 +1,6 @@
+Customer Name: Rahul Sharma
+Email Subject: Urgent - Order Not Delivered
+Category: Order Issue
+Priority: High
+Issue Summary: The customer has not received their laptop despite the delivery date passing, and needs it urgently for work.
+Recommended Action: Check the order tracking details, contact the logistics partner, and provide the customer with an immediate status update.

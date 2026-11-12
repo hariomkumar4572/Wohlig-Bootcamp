@@ -1,0 +1,6 @@
+Customer Name: Priya Singh
+Email Subject: Refund Not Received
+Category: Refund
+Priority: Medium
+Issue Summary: The customer returned non-working headphones and is requesting an update on their unpaid refund.
+Recommended Action: Verify the return and refund status in the system and provide the customer with an update on when to expect the funds.

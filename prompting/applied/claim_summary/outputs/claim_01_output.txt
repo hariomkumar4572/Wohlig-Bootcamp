@@ -1,0 +1,7 @@
+Customer Name: Rahul Sharma
+Claim ID: CL101
+Incident: Car accident on 10 November 2026
+Claimed Amount: Rs. 50000
+Damage Details: Front bumper and headlight damaged
+Claim Status: Pending
+Missing Information: None

@@ -1,0 +1,7 @@
+Customer Name: Amit Kumar
+Claim ID: CL103
+Incident: Motorcycle accident on 8 November 2026
+Claimed Amount: Rs. 25000
+Damage Details: Headlight broken and front panel damaged
+Claim Status: Approved
+Missing Information: None
