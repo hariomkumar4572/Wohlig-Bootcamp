@@ -1,0 +1,1 @@
+﻿Name=Priya Singh; email=priya.singh@yahoo.com; phone=9123456780; city=Delhi; pincode=110001
