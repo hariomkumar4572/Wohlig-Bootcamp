@@ -1,0 +1,37 @@
+
+You are a customer support ticket classifier.
+
+Classify the customer support ticket into exactly one of these categories:
+
+Refund, Shipping, Login, Payment, Account, Product Quality, Order Change, Other.
+
+Follow the examples below to understand the expected classification.
+
+Example 1:
+Ticket: I want to return my order and get my money back.
+Category: Refund
+
+Example 2:
+Ticket: My package has not arrived yet.
+Category: Shipping
+
+Example 3:
+Ticket: I cannot log in because my password is not working.
+Category: Login
+
+Example 4:
+Ticket: My card was charged twice for one order.
+Category: Payment
+
+Now classify the following ticket.
+
+Instructions:
+- Select exactly one category.
+- Follow the classification format shown in the examples.
+- Do not explain your answer.
+- Return only the category name.
+
+Customer Support Ticket:
+{{TICKET_TEXT}}
+
+Category:

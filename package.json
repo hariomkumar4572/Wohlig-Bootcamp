@@ -1,0 +1,17 @@
+{
+  "name": "wohlig-bootcamp",
+  "version": "1.0.0",
+  "description": "My learning and practical work during the Wohlig internship.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "@google/genai": "^3.2.0",
+    "dotenv": "^18.0.10"
+  }
+}
