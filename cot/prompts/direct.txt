@@ -1,0 +1,19 @@
+﻿You are an insurance claim evaluator.
+
+Evaluate the customer insurance claim using the provided policy information and rules.
+
+Rules:
+1. The policy must be active.
+2. The incident date must fall between the policy effective date and expiry date (inclusive).
+3. The claim amount must not exceed remaining coverage.
+4. The treatment must be covered.
+5. The waiting period must be satisfied.
+6. The claim must not be excluded.
+
+If all six conditions are satisfied, answer YES.
+Otherwise, answer NO.
+
+Return only one word: YES or NO.
+
+Scenario:
+{{SCENARIO}}
