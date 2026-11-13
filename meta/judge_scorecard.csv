@@ -1,0 +1,6 @@
+﻿brief_id,generated_prompt_quality_1to5,has_all_6_sections,what_was_missing
+01,3,Yes,"Invalid JSON example; generic placeholders; OCR/scanned PDF handling not defined"
+02,4,Yes,"Urgency criteria need clearer thresholds; no rule for emails with multiple intents"
+03,3,Yes,"Example includes unsupported product benefits; text encoding issue; SEO keyword and audience guidance could be clearer"
+04,4,Yes,"Jurisdiction-specific terminology handling and a dedicated ambiguous-clauses section are missing"
+05,4,Yes,"Source and target language placeholders need clearer input validation; no guidance for regional language variants or terminology consistency"
