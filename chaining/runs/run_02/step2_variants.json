@@ -1,0 +1,22 @@
+{
+    "variants": [
+        {
+            "variant_name": "Variant 1: Fitness Focus",
+            "headline": "Fuel Your Workout with EcoSip",
+            "body": "Stay hydrated during every training session with the durable stainless steel body and reliable leak-resistant lid of the EcoSip Bottle. Designed for active lifestyles, this reusable bottle keeps up with your toughest routines.",
+            "call_to_action": "Upgrade Your Workout Gear"
+        },
+        {
+            "variant_name": "Variant 2: Office Productivity",
+            "headline": "Your Desk Companion for All-Day Hydration",
+            "body": "Power through your workday meetings and tasks with the sleek EcoSip Bottle. Featuring a sturdy stainless steel construction and a leak-resistant lid, it is the practical reusable choice for busy professionals.",
+            "call_to_action": "Shop the EcoSip Bottle"
+        },
+        {
+            "variant_name": "Variant 3: Student Lifestyle",
+            "headline": "Smart Hydration for Campus Life",
+            "body": "Carry your water securely from class to the library with the EcoSip Bottle. Its reusable design and dependable leak-resistant lid make it the ideal daily companion for students on the move.",
+            "call_to_action": "Get Yours Today"
+        }
+    ]
+}

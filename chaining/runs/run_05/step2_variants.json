@@ -1,0 +1,22 @@
+{
+    "variants": [
+        {
+            "variant_name": "Focus & Study",
+            "headline": "Illuminate Your Study Sessions with GlowDesk",
+            "body": "Designed for students and dedicated readers, the GlowDesk Lamp features adjustable brightness to help you focus through late-night study sessions. Direct your light precisely where you need it using the flexible neck.",
+            "call_to_action": "Upgrade Your Desk Setup"
+        },
+        {
+            "variant_name": "Remote Work Productivity",
+            "headline": "The Ultimate Desk Companion for Remote Work",
+            "body": "Enhance your home office productivity with the GlowDesk Lamp. Easily adjust the brightness to suit your workspace lighting needs and angle the flexible neck for optimal comfort during long work hours.",
+            "call_to_action": "Shop GlowDesk Now"
+        },
+        {
+            "variant_name": "Versatile & Portable",
+            "headline": "Convenient USB-Powered Lighting Anywhere",
+            "body": "Power your workspace effortlessly using any standard USB port. The GlowDesk Lamp combines a flexible neck and adjustable brightness settings to deliver adaptable lighting wherever your reading or work takes you.",
+            "call_to_action": "Get Yours Today"
+        }
+    ]
+}

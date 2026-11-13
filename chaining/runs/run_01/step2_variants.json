@@ -1,0 +1,22 @@
+{
+    "variants": [
+        {
+            "variant_name": "Creator Essential",
+            "headline": "Level Up Your Mobile Content",
+            "body": "Capture steady shots and group photos effortlessly with the PocketStudio. Featuring a compact tripod, an adjustable phone holder, and a convenient Bluetooth remote shutter, it has everything content creators and vloggers need on the go.",
+            "call_to_action": "Get PocketStudio Today"
+        },
+        {
+            "variant_name": "Vlogger Kit",
+            "headline": "Shoot Anywhere, Anytime",
+            "body": "Designed for mobile photographers and vloggers, PocketStudio combines a sturdy compact tripod with an adjustable phone holder to keep your device secure at any angle. Use the included Bluetooth remote shutter for hands-free recording.",
+            "call_to_action": "Explore PocketStudio"
+        },
+        {
+            "variant_name": "Mobile Photography Rig",
+            "headline": "Precision and Portability in Your Pocket",
+            "body": "Enhance your mobile photography and video quality with PocketStudio. This kit includes a compact tripod, a secure adjustable phone holder, and a wireless Bluetooth remote shutter for easy operation from a distance.",
+            "call_to_action": "Shop Now"
+        }
+    ]
+}

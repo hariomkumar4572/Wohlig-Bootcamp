@@ -1,0 +1,22 @@
+{
+    "variants": [
+        {
+            "variant_name": "Variant 1 - The Starter Guide",
+            "headline": "Start Your Fitness Journey with Confidence",
+            "body": "Begin your path to better health with the FitTrack Band. Designed for beginners and active individuals alike, it helps you build consistent habits by accurately tracking your daily steps, monitoring your rest with sleep tracking, and keeping tabs on your overall activity.",
+            "call_to_action": "Discover FitTrack Band"
+        },
+        {
+            "variant_name": "Variant 2 - Daily Progress",
+            "headline": "Understand Your Body, Every Single Day",
+            "body": "Take the guesswork out of daily movement. The FitTrack Band features reliable step tracking, comprehensive sleep tracking, and continuous activity monitoring to give you a clear picture of how you move and rest throughout the day.",
+            "call_to_action": "Explore Features"
+        },
+        {
+            "variant_name": "Variant 3 - Active Lifestyle",
+            "headline": "Keep Pace with Your Active Routine",
+            "body": "Whether you are taking your first steps or staying active throughout the week, the FitTrack Band supports your lifestyle. Monitor your daily workouts, keep track of your active moments, and analyze your sleep patterns to stay informed.",
+            "call_to_action": "Learn More"
+        }
+    ]
+}

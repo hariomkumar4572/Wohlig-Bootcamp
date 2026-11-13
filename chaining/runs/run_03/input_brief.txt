@@ -1,0 +1,4 @@
+﻿Product Name: StudyMate Planner
+Category: Productivity Stationery
+Key Features: Weekly planning pages, task checklist, monthly goal tracker.
+Target Audience: Students and working professionals.

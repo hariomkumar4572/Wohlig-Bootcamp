@@ -1,0 +1,22 @@
+{
+    "variants": [
+        {
+            "variant_name": "Weekly Focus",
+            "headline": "Master Your Week with StudyMate Planner",
+            "body": "Stay on top of your schedule using dedicated weekly planning pages designed to help students and working professionals organize their time efficiently.",
+            "call_to_action": "Get Yours Today"
+        },
+        {
+            "variant_name": "Task Master",
+            "headline": "Check Off Every Goal",
+            "body": "Keep your daily workload manageable with a built-in task checklist that ensures nothing slips through the cracks, whether you are studying or managing a career.",
+            "call_to_action": "Start Organizing Now"
+        },
+        {
+            "variant_name": "Big Picture",
+            "headline": "Track Your Monthly Progress",
+            "body": "Align your daily efforts with long-term ambitions using the integrated monthly goal tracker, built specifically to keep busy professionals and students focused.",
+            "call_to_action": "Plan Your Month"
+        }
+    ]
+}

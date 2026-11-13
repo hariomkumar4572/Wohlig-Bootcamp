@@ -1,0 +1,4 @@
+﻿Product Name: FitTrack Band
+Category: Fitness Wearable
+Key Features: Step tracking, sleep tracking, activity monitoring.
+Target Audience: Fitness beginners and active individuals.
