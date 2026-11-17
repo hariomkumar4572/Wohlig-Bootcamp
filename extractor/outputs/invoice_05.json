@@ -1,0 +1,33 @@
+{
+  "invoice_number": "INV-2026-005",
+  "invoice_date": "2026-11-05",
+  "due_date": "2026-11-25",
+  "seller_name": "Creative Print House",
+  "buyer_name": "Modern Marketing Agency",
+  "billing_address": {
+    "street": null,
+    "city": "Mumbai",
+    "state": "Maharashtra",
+    "postal_code": "400001",
+    "country": "India"
+  },
+  "line_items": [
+    {
+      "description": "Brochure Printing",
+      "quantity": 500.0,
+      "unit_price": 12.0,
+      "amount": 6000.0
+    },
+    {
+      "description": "Business Cards",
+      "quantity": 200.0,
+      "unit_price": 5.0,
+      "amount": 1000.0
+    }
+  ],
+  "payment_status": "UNPAID",
+  "currency": "INR",
+  "subtotal": 7000.0,
+  "tax_amount": 1260.0,
+  "total_amount": 8260.0
+}

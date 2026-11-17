@@ -1,0 +1,33 @@
+{
+  "invoice_number": "INV-2026-004",
+  "invoice_date": "2026-11-04",
+  "due_date": "2026-11-10",
+  "seller_name": "CloudTech Services",
+  "buyer_name": "NextGen Software",
+  "billing_address": {
+    "street": "21 Sector 5",
+    "city": "Noida",
+    "state": "Uttar Pradesh",
+    "postal_code": "201301",
+    "country": "India"
+  },
+  "line_items": [
+    {
+      "description": "Cloud Hosting",
+      "quantity": 1.0,
+      "unit_price": 12000.0,
+      "amount": 12000.0
+    },
+    {
+      "description": "Technical Support",
+      "quantity": 2.0,
+      "unit_price": 3000.0,
+      "amount": 6000.0
+    }
+  ],
+  "payment_status": "OVERDUE",
+  "currency": "INR",
+  "subtotal": 18000.0,
+  "tax_amount": 3240.0,
+  "total_amount": 21240.0
+}

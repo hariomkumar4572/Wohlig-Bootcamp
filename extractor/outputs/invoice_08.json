@@ -1,0 +1,33 @@
+{
+  "invoice_number": "INV-2026-008",
+  "invoice_date": "2026-11-08",
+  "due_date": "2026-11-18",
+  "seller_name": "Logistics Express",
+  "buyer_name": "National Retail Traders",
+  "billing_address": {
+    "street": null,
+    "city": "Delhi",
+    "state": "Delhi",
+    "postal_code": null,
+    "country": "India"
+  },
+  "line_items": [
+    {
+      "description": "Freight Charges",
+      "quantity": 4.0,
+      "unit_price": 2500.0,
+      "amount": 10000.0
+    },
+    {
+      "description": "Packaging Service",
+      "quantity": 4.0,
+      "unit_price": 500.0,
+      "amount": 2000.0
+    }
+  ],
+  "payment_status": "UNPAID",
+  "currency": "INR",
+  "subtotal": 12000.0,
+  "tax_amount": 2160.0,
+  "total_amount": 14160.0
+}

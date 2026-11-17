@@ -1,0 +1,33 @@
+{
+  "invoice_number": "INV-2026-009",
+  "invoice_date": "2026-11-09",
+  "due_date": "2026-11-24",
+  "seller_name": "DataPro Analytics",
+  "buyer_name": "Insight Consulting",
+  "billing_address": {
+    "street": "33 Tech Park",
+    "city": "Hyderabad",
+    "state": "Telangana",
+    "postal_code": "500081",
+    "country": "India"
+  },
+  "line_items": [
+    {
+      "description": "Data Analysis Service",
+      "quantity": 5.0,
+      "unit_price": 4000.0,
+      "amount": 20000.0
+    },
+    {
+      "description": "Monthly Report",
+      "quantity": 2.0,
+      "unit_price": 1500.0,
+      "amount": 3000.0
+    }
+  ],
+  "payment_status": "PARTIALLY_PAID",
+  "currency": "INR",
+  "subtotal": 23000.0,
+  "tax_amount": 4140.0,
+  "total_amount": 27140.0
+}

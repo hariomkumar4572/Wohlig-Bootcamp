@@ -1,0 +1,33 @@
+{
+  "invoice_number": "INV-2026-002",
+  "invoice_date": "2026-11-02",
+  "due_date": "2026-11-20",
+  "seller_name": "Digital World Pvt Ltd",
+  "buyer_name": "Bright Future Academy",
+  "billing_address": {
+    "street": "45 MG Road",
+    "city": "Patna",
+    "state": "Bihar",
+    "postal_code": "800001",
+    "country": "India"
+  },
+  "line_items": [
+    {
+      "description": "Desktop Computer",
+      "quantity": 3.0,
+      "unit_price": 35000.0,
+      "amount": 105000.0
+    },
+    {
+      "description": "Keyboard",
+      "quantity": 3.0,
+      "unit_price": 800.0,
+      "amount": 2400.0
+    }
+  ],
+  "payment_status": "UNPAID",
+  "currency": "INR",
+  "subtotal": 107400.0,
+  "tax_amount": 19332.0,
+  "total_amount": 126732.0
+}

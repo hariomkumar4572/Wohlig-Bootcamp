@@ -1,0 +1,33 @@
+{
+  "invoice_number": "INV-2026-003",
+  "invoice_date": "2026-11-03",
+  "due_date": null,
+  "seller_name": "Office Supplies Hub",
+  "buyer_name": "Green Valley School",
+  "billing_address": {
+    "street": "8 Station Road",
+    "city": "Darbhanga",
+    "state": "Bihar",
+    "postal_code": "846004",
+    "country": "India"
+  },
+  "line_items": [
+    {
+      "description": "Printer Paper Box",
+      "quantity": 10.0,
+      "unit_price": 350.0,
+      "amount": 3500.0
+    },
+    {
+      "description": "Pen Pack",
+      "quantity": 20.0,
+      "unit_price": 100.0,
+      "amount": 2000.0
+    }
+  ],
+  "payment_status": "PARTIALLY_PAID",
+  "currency": "INR",
+  "subtotal": 5500.0,
+  "tax_amount": 990.0,
+  "total_amount": 6490.0
+}
